@@ -1,10 +1,16 @@
-DOMAIN-SUFFIX,youyuan.com,🎯 全球直连
-DOMAIN-SUFFIX,youyuan.com.cn,🎯 全球直连
-DOMAIN-SUFFIX,youyuan.cn,🎯 全球直连
-DOMAIN-SUFFIX,youyuan-inc.com,🎯 全球直连
-DOMAIN-SUFFIX,51lianai.net,🎯 全球直连
-DOMAIN-SUFFIX,qiujiaoyou.net,🎯 全球直连
-DOMAIN-SUFFIX,lover2.net,🎯 全球直连
-DOMAIN-SUFFIX,test-ipv6.hu,🎯 全球直连
-DOMAIN-SUFFIX,testipv6.*,🎯 全球直连
-DOMAIN-SUFFIX,jingwl.top,🎯 全球直连
+
+# youyuan
+DOMAIN-SUFFIX,youyuan.com
+DOMAIN-SUFFIX,youyuan.com.cn
+DOMAIN-SUFFIX,youyuan.cn
+DOMAIN-SUFFIX,youyuan-inc.com
+DOMAIN-SUFFIX,51lianai.net
+DOMAIN-SUFFIX,qiujiaoyou.net
+DOMAIN-SUFFIX,lover2.net
+
+# ipv6
+DOMAIN-SUFFIX,test-ipv6.hu
+DOMAIN-SUFFIX,testipv6.*
+
+# my domain
+DOMAIN-SUFFIX,jingwl.top
