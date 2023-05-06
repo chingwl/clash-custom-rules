@@ -15,9 +15,9 @@ DOMAIN-SUFFIX,testipv6.*
 # my domain
 DOMAIN-SUFFIX,jingwl.top
 
+# things3 cloud 
+DOMAIN-SUFFIX,culturedcode.com
+
 # docker
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
-
-# things3 cloud 
-DOMAIN-SUFFIX,culturedcode.com
