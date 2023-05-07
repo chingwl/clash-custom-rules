@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,lover2.net
 DOMAIN-SUFFIX,test-ipv6.hu
 DOMAIN-SUFFIX,testipv6.*
 
+# ip
+DOMAIN,api.ipify.org
+
 # my domain
 DOMAIN-SUFFIX,jingwl.top
 
