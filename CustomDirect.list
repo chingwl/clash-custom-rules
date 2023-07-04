@@ -25,3 +25,6 @@ DOMAIN-SUFFIX,culturedcode.com
 # docker
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
+
+# media api gdt
+DOMAIN,api.e.qq.com
